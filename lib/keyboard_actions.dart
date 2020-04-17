@@ -9,7 +9,7 @@ import 'keyboard_actions_config.dart';
 export 'keyboard_actions_config.dart';
 export 'keyboard_custom.dart';
 
-const double _kBarSize = 45.0;
+const double _kBarSize = 40.0;
 const Duration _timeToDismiss = Duration(milliseconds: 110);
 
 enum KeyboardActionsPlatform {
